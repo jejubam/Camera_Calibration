@@ -1,4 +1,4 @@
-name: calibration2
+name: calibration
 channels:
     - conda-forge
     - defaults
